@@ -45,10 +45,3 @@ while True:
         writer.writerow([t] + [data_e_hora_em_texto + " " + horas])
 
     time.sleep(3600)
-# print(dia)
-# print(dol)
-# matplotlib.pyplot.plot(dia, dol)
-# matplotlib.pyplot.xlabel('Data')
-# matplotlib.pyplot.ylabel('Valor do Dollar')
-# matplotlib.pyplot.savefig('grafico.png')
-# matplotlib.pyplot.show()
